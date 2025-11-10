@@ -7,7 +7,7 @@ I love coding
 
 Ik how to make ai modules for personal uses
 
-- 🔭 I’m currently working on : Zack an personal ai assistant 
+- 🔭 I’m currently working on : A custom made superpower plugin for Minecraft Paper
 - 🌱 I’m currently learning : Game Development 
 - 📫 How to reach me: ppmaster17181 (discord)
 - 😄 Pronouns: He/Him
